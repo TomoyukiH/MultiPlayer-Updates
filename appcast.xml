@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>MultiPlayer</title>
-    <item>
-      <title>0.1.11</title>
-      <pubDate>Sat, 22 Aug 2026 20:55:59 +0900</pubDate>
-      <link>https://github.com/TomoyukiH/MultiPlayer-Updates</link>
-      <sparkle:version>12</sparkle:version>
-      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/TomoyukiH/MultiPlayer-Updates/releases/download/v0.1.11/MultiPlayer-0.1.11-universal-beta.zip" length="2738333" type="application/octet-stream" sparkle:edSignature="6hbXUnx8bvD3Vjoheovt8Ca+CpaqFBGaEoq0BpnMeg4FVrEeA1hlQhLp/T7jrm2RESoPaUFKK2dEeaEBd5VLAg=="/>
-    </item>
-  </channel>
+    <channel>
+        <title>MultiPlayer</title>
+        <item>
+            <title>0.1.12</title>
+            <pubDate>Tue, 25 Aug 2026 21:47:01 +0900</pubDate>
+            <link>https://github.com/TomoyukiH/MultiPlayer-Updates</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TomoyukiH/MultiPlayer-Updates/releases/download/v0.1.12/MultiPlayer-0.1.12-universal-beta.zip" length="2733425" type="application/octet-stream" sparkle:edSignature="YmYnQ4OIulZeQ8X8fC/LdLm+idEen+pakz2mfJn7/U1tVBhUDQMAMUfyhwSILOmoUQ/rjwakFqPtGxGNXpGhDQ=="/>
+        </item>
+    </channel>
 </rss>
