@@ -9,7 +9,7 @@
             <sparkle:version>70</sparkle:version>
             <sparkle:shortVersionString>0.1.69</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TomoyukiH/MultiPlayer-Updates/releases/download/v0.1.69/MultiPlayer-0.1.69-universal-beta.zip" length="6918760" type="application/octet-stream" sparkle:edSignature="dBZ/MPybQmX6/Bi9ugwH+4FGN8xyUFk4wyaFFtdoDYwtmyGg3W5RvCG7C89y38uCGGsTCpyOx/EqwXgytUSEBg=="/>
+            <enclosure url="https://github.com/TomoyukiH/MultiPlayer-Updates/releases/download/v0.1.69/MultiPlayer-0.1.69-universal-beta.zip" length="6918760" type="application/octet-stream" sparkle:edSignature="nA9MtRFYNOhHlIaJVBUbHltsg9f7HQF+6YdYJ1UWex8kqx48/nnHuxZKu580pqCUhtijtDABlXURc9qKVq2RBw=="/>
         </item>
     </channel>
 </rss>
