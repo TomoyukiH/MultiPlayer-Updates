@@ -3,13 +3,13 @@
     <channel>
         <title>MultiPlayer</title>
         <item>
-            <title>0.1.133</title>
-            <pubDate>Mon, 21 Sep 2026 23:10:52 +0900</pubDate>
+            <title>0.1.134</title>
+            <pubDate>Mon, 21 Sep 2026 23:32:42 +0900</pubDate>
             <link>https://github.com/TomoyukiH/MultiPlayer-Updates</link>
-            <sparkle:version>134</sparkle:version>
-            <sparkle:shortVersionString>0.1.133</sparkle:shortVersionString>
+            <sparkle:version>135</sparkle:version>
+            <sparkle:shortVersionString>0.1.134</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TomoyukiH/MultiPlayer-Updates/releases/download/v0.1.133/MultiPlayer-0.1.133-universal-beta.zip" length="8758766" type="application/octet-stream" sparkle:edSignature="xp2F+pFSLyLylVY6u2xbYKCLB417YAqaIO3c6U8+d+xlqUJLyKROW84Uu9RYhO7pcuJrEtHIkfSz5I1BFqW6Cw=="/>
+            <enclosure url="https://github.com/TomoyukiH/MultiPlayer-Updates/releases/download/v0.1.134/MultiPlayer-0.1.134-universal-beta.zip" length="8763957" type="application/octet-stream" sparkle:edSignature="IxB7o+PRdWzbhDNnv3LzE6O3/0kUfFt0oHEtCySB3tGBj1zsIbvVDu82VQeXo/DiTZZytJplJDNObEAhtCQJCQ=="/>
         </item>
     </channel>
 </rss>
